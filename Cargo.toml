@@ -1,5 +1,5 @@
 [workspace]
-members = ["jupiter-core"]
+members = ["jupiter-core", "jupiter"]
 
 [workspace.package]
 edition = "2021"
